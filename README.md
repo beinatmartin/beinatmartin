@@ -11,14 +11,28 @@ My long-term interest is building intelligent systems that give people more cont
 
 ## Selected work
 
-**Karmen** — Private · In development  
-A personal AI ecosystem exploring local inference, modular architecture and user-controlled infrastructure.
+Public engineering case studies of projects currently in development. Source repositories remain private.
 
-**GOIKOL** — Private · Academic project · In development  
-A full-stack web application with a focus on software architecture, automated testing, containerized infrastructure and secure deployment.
+<a href="https://github.com/beinatmartin/karmen-showcase">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-karmen-dark.svg">
+    <img alt="KARMEN — Intelligence under your control. View engineering case study." src="./assets/project-karmen-light.svg" width="100%">
+  </picture>
+</a>
 
-**Karmen VR** — Private · In development  
-A Unity-based virtual reality escape room, exploring immersive interaction and puzzle design.
+<a href="https://github.com/beinatmartin/goikol-showcase">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-goikol-dark.svg">
+    <img alt="GOIKOL — Engineering beyond the application. View engineering case study." src="./assets/project-goikol-light.svg" width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/beinatmartin/karmen-vr-showcase">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-karmen-vr-dark.svg">
+    <img alt="KARMEN VR — Beyond the screen. View engineering case study." src="./assets/project-karmen-vr-light.svg" width="100%">
+  </picture>
+</a>
 
 ## Technical interests
 
