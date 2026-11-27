@@ -14,11 +14,11 @@ My long-term interest is building intelligent systems that give people more cont
 **Karmen** — Private · In development  
 A personal AI ecosystem exploring local inference, modular architecture and user-controlled infrastructure.
 
+**GOIKOL** — Private · Academic project · In development  
+A full-stack web application with a focus on software architecture, automated testing, containerized infrastructure and secure deployment.
+
 **Karmen VR** — Private · In development  
 A Unity-based virtual reality escape room, exploring immersive interaction and puzzle design.
-
-**[Skerney](https://github.com/beinatmartin/Skerney)** — Public  
-A pixel-art action RPG project.
 
 ## Technical interests
 
