@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img"><title>GOIKOL — Engineering beyond the application.</title><rect x="1" y="1" width="878" height="188" rx="12" fill="#101c29" stroke="#30485d"/><g font-family="Arial, Helvetica, sans-serif"><text x="28" y="29" font-size="13" letter-spacing="2" fill="#a1b5c6">002 / FULL-STACK &amp; INFRASTRUCTURE</text><text x="26" y="78" font-size="43" font-weight="700" letter-spacing="2" fill="#edf3f7">GOIKOL</text><text x="28" y="105" font-size="20" fill="#e6ab43">Engineering beyond the application.</text><text x="28" y="130" font-size="14" fill="#a1b5c6">Laravel / Docker / DevSecOps</text><path d="M28 148 H852" stroke="#30485d"/><text x="28" y="173" font-size="12" letter-spacing="1.5" fill="#a1b5c6">ENGINEERING CASE STUDY</text><text x="850" y="173" text-anchor="end" font-size="12" font-weight="bold" fill="#e6ab43">VIEW PROJECT ↗</text></g><g transform="translate(773 77)" fill="none" stroke="#e6ab43"><path d="M0 -48 L42 -24 V24 L0 48 L-42 24 V-24 Z" stroke-width="1.5"/><path d="M20 -23 H-19 V23 H20 V0 H2" stroke-width="5" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160">
+  <title>An unfinished matchday</title>
+  <rect width="800" height="160" rx="8" fill="#0B1420"/>
+  <g transform="translate(32 18)" stroke="#E5B765" stroke-width="3" fill="none">
+    <rect x="0" y="0" width="210" height="124" rx="2"/><path d="M105 0V124M0 34H32V90H0M210 34H178V90H210"/>
+    <circle cx="105" cy="62" r="23"/><circle cx="105" cy="62" r="3" fill="#E5B765"/>
+  </g>
+  <g fill="#EDF3F7" font-family="monospace" font-size="46" text-anchor="middle">
+    <text x="360" y="96">2–1</text><text x="522" y="96">0–0</text>
+  </g>
+  <rect x="634" y="47" width="109" height="65" rx="4" fill="none" stroke="#E5B765" stroke-width="3" stroke-dasharray="7 7"/>
+  <path d="M673 80H705" stroke="#E5B765" stroke-width="4"/>
+</svg>

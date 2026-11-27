@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img"><title>KARMEN — Intelligence under your control.</title><rect x="1" y="1" width="878" height="188" rx="12" fill="#f3f7fa" stroke="#c7d5df"/><g font-family="Arial, Helvetica, sans-serif"><text x="28" y="29" font-size="13" letter-spacing="2" fill="#455e72">001 / ARTIFICIAL INTELLIGENCE</text><text x="26" y="78" font-size="43" font-weight="700" letter-spacing="2" fill="#14283b">KARMEN</text><text x="28" y="105" font-size="20" fill="#235b78">Intelligence under your control.</text><text x="28" y="130" font-size="14" fill="#455e72">Python / Local AI / Software Architecture</text><path d="M28 148 H852" stroke="#c7d5df"/><text x="28" y="173" font-size="12" letter-spacing="1.5" fill="#455e72">ENGINEERING CASE STUDY</text><text x="850" y="173" text-anchor="end" font-size="12" font-weight="bold" fill="#235b78">VIEW PROJECT ↗</text></g><g transform="translate(773 77)" fill="none" stroke="#235b78"><path d="M0 -48 L42 -24 V24 L0 48 L-42 24 V-24 Z" stroke-width="1.5"/><path d="M-14 -24 V24 M-14 0 L18 -24 M-14 0 L18 24" stroke-width="5" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 144">
+  <title>A missing acknowledgement</title>
+  <rect width="800" height="144" rx="8" fill="#F5F2EB"/>
+  <g fill="none" stroke="#315C73" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94 72H218L237 52L250 87L269 32L287 72H683"/>
+    <path d="M683 86V106H493" stroke-dasharray="8 9"/>
+    <path d="M471 95L454 116M456 95L439 116"/>
+    <circle cx="84" cy="72" r="10"/><circle cx="695" cy="72" r="12"/>
+  </g>
+  <g fill="#435361"><circle cx="218" cy="72" r="3"/><circle cx="368" cy="72" r="3"/><circle cx="543" cy="72" r="3"/></g>
+</svg>

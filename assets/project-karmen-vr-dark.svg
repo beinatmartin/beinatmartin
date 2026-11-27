@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img"><title>KARMEN VR — Beyond the screen.</title><rect x="1" y="1" width="878" height="188" rx="12" fill="#101c29" stroke="#30485d"/><g font-family="Arial, Helvetica, sans-serif"><text x="28" y="29" font-size="13" letter-spacing="2" fill="#a1b5c6">003 / IMMERSIVE TECHNOLOGY</text><text x="26" y="78" font-size="43" font-weight="700" letter-spacing="2" fill="#edf3f7">KARMEN VR</text><text x="28" y="105" font-size="20" fill="#a9d8ed">Beyond the screen.</text><text x="28" y="130" font-size="14" fill="#a1b5c6">Unity / C# / OpenXR</text><path d="M28 148 H852" stroke="#30485d"/><text x="28" y="173" font-size="12" letter-spacing="1.5" fill="#a1b5c6">ENGINEERING CASE STUDY</text><text x="850" y="173" text-anchor="end" font-size="12" font-weight="bold" fill="#a9d8ed">VIEW PROJECT ↗</text></g><g transform="translate(773 77)" fill="none" stroke="#a9d8ed"><path d="M0 -48 L42 -24 V24 L0 48 L-42 24 V-24 Z" stroke-width="1.5"/><ellipse rx="66" ry="42" transform="rotate(-25)" stroke-dasharray="3 5"/><path d="M-14 -24 V24 M-14 0 L18 -24 M-14 0 L18 24" stroke-width="5" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 192">
+  <title>A battery waiting in the facility</title>
+  <defs>
+    <radialGradient id="spill"><stop stop-color="#B8E5EF" stop-opacity=".56"/><stop offset="1" stop-color="#203448" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="192" rx="8" fill="#101F2E"/>
+  <path d="M0 0H210L322 52H190V133L0 192Z" fill="#0B1420"/>
+  <path d="M800 0H633L570 55V131L800 192Z" fill="#0B1420"/>
+  <path d="M0 192L196 134H575L800 192" fill="#31495A"/>
+  <ellipse cx="470" cy="143" rx="150" ry="38" fill="url(#spill)"/>
+  <g fill="none" stroke="#8FA7BB" stroke-width="2"><path d="M31 0L210 57V124L84 164M48 0L222 53M570 55L730 0M575 131L763 192" opacity=".55"/></g>
+  <path d="M426 127L475 122L509 134L460 140Z" fill="#0B1420"/>
+  <g transform="translate(469 113) rotate(-12)">
+    <rect x="-14" y="-30" width="28" height="49" rx="4" fill="#203448" stroke="#B8E5EF" stroke-width="3"/>
+    <path d="M-6 -31V-35H6V-31" fill="#B8E5EF"/><path d="M-8 -12H8M-8 -5H8M-8 2H8" stroke="#B8E5EF" stroke-width="3"/>
+  </g>
+</svg>
